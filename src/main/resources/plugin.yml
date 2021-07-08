@@ -1,0 +1,5 @@
+name: SleepMessages
+version: ${project.version}
+main: me.anuzsubedi.sleepmessages.Main
+api-version: 1.17
+description: Sends random configurable messages when players sleep.
